@@ -1,0 +1,8 @@
+SITUATION
+After cleaning the order book, Mamaearth's net revenue over the window stands at INR 97,358.30. The raw, uncleaned ledger overstated this by INR 2,501.90 (reporting INR 99,860.20): exactly the combined value of five double-submitted duplicate orders that were removed. The cleaned figure of INR 97,358.30 is the number finance should carry forward.
+
+COMPLICATION
+Returns are not spread evenly across payment methods. Cash-on-Delivery (COD) orders are returned at 44.4%, versus 18.9% for UPI and 14.7% for Card — roughly three times the Card rate. The risk concentrates further by geography: COD orders placed from Tier-2 cities are returned at 54.5%, the single highest-risk segment in the business. A blended company-wide return rate would have hidden this pocket entirely.
+
+RESOLUTION
+Two actions follow. First, tighten COD in Tier-2 cities — through prepaid incentives, order-confirmation calls, or COD caps — where the 54.5% return rate is eroding margin fastest. Second, correct the revenue calendar: once the two bulk-order outliers are excluded, March 2026 is the true peak month at INR 20,318.90, not January 2026 (whose apparent INR 29,582.10 collapses to INR 11,637.10 once the outliers are removed). Plan inventory and regional campaigns around the real March peak.
